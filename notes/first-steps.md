@@ -1,2 +1,3 @@
 First notes coming soon...
 Goal - Learn privacy skills and basic web skills.
+Next test AdGuard basics.
